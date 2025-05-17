@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=owyn&show_icons=true&theme=github_dark_dimmed"
+    srcset="https://github-readme-stats.vercel.app/api?username=owyn&show_icons=true&theme=one_dark_pro"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -8,11 +8,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=owyn&show_icons=true&theme=catppuccin_latte" />
-</picture>
-<br>
-<picture>
+</picture><picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owyn&layout=compact&theme=github_dark_dimmed"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owyn&layout=compact&theme=one_dark_pro"
     media="(prefers-color-scheme: dark)"
   />
   <source
