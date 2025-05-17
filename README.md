@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=owyn&show_icons=true&theme=one_dark_pro"
+    srcset="https://github-readme-stats.vercel.app/api?username=owyn&show_icons=true&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=owyn&show_icons=true&theme=catppuccin_latte" />
 </picture><picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owyn&layout=compact&theme=one_dark_pro"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=owyn&layout=compact&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
